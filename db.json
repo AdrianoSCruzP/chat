@@ -1,0 +1,102 @@
+{
+  "chats": [
+    {
+      "chat_id": "1",
+      "timestamp": "2024-05-31T15:20:30Z",
+      "participants": {
+        "user_id": "user1",
+        "username": "Alica Breta",
+        "landlor_id": "landlord1",
+        "landlorname": "LandorPendis"
+      },
+      "message_count": 4,
+      "chat_status": "active",
+      "messages": [
+        {
+          "chat_id": "1",
+          "message_id": "msg1",
+          "timestamp": "2024-05-31T15:20:30Z",
+          "user_id": "user1",
+          "content": "Hello, is the apartment available?"
+        },
+        {
+          "chat_id": "1",
+          "message_id": "msg2",
+          "timestamp": "2024-05-31T15:22:10Z",
+          "user_id": "landlord1",
+          "content": "Hi, yes, the apartment is available."
+        },
+        {
+          "chat_id": "1",
+          "message_id": "msg3",
+          "timestamp": "2024-05-31T15:25:00Z",
+          "user_id": "user1",
+          "content": "Can I visit it tomorrow?"
+        },
+        {
+          "chat_id": "1",
+          "message_id": "msg4",
+          "timestamp": "2024-05-31T15:27:45Z",
+          "user_id": "landlord1",
+          "content": "Sure, what time would you like to come?"
+        }
+      ]
+    },
+    {
+      "chat_id": "2",
+      "timestamp": "2024-05-30T10:10:15Z",
+      "participants": {
+        "user_id": "user2",
+        "username": "AliceSmith",
+        "landlor_id": "landlord2",
+        "landlorname": "LandlordBob"
+      },
+      "message_count": 6,
+      "chat_status": "finished",
+      "messages": [
+        {
+          "chat_id": "2",
+          "message_id": "msg5",
+          "timestamp": "2024-05-30T10:10:15Z",
+          "user_id": "user2",
+          "content": "Good morning, can you give me more details about the apartment?"
+        },
+        {
+          "chat_id": "2",
+          "message_id": "msg6",
+          "timestamp": "2024-05-30T10:15:00Z",
+          "user_id": "landlord2",
+          "content": "Good morning, the apartment has 2 bedrooms, 1 bathroom, and is in a central location."
+        },
+        {
+          "chat_id": "2",
+          "message_id": "msg7",
+          "timestamp": "2024-05-30T10:17:30Z",
+          "user_id": "user2",
+          "content": "Does the rent include utilities?"
+        },
+        {
+          "chat_id": "2",
+          "message_id": "msg8",
+          "timestamp": "2024-05-30T10:20:05Z",
+          "user_id": "landlord2",
+          "content": "Yes, it includes water and electricity."
+        },
+        {
+          "chat_id": "2",
+          "message_id": "msg9",
+          "timestamp": "2024-05-30T10:22:50Z",
+          "user_id": "user2",
+          "content": "Perfect, I'm interested. Can we schedule a visit?"
+        },
+        {
+          "chat_id": "2",
+          "message_id": "msg10",
+          "timestamp": "2024-05-30T10:25:35Z",
+          "user_id": "landlord2",
+          "content": "Yes, how about tomorrow at 11 AM?"
+        }
+      ]
+    }
+  ]
+}
